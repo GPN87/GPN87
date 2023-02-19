@@ -3,9 +3,9 @@
 <p>Current Bootcamper (Monash uni. Due to finish in May 2023)| Former policy-writer | Aspiring data analyst</p> 
 <p>My skillset is an inch deep and a mile wide right now but looking to dig deeper and chip away at my 10,000 hours</p>
 <hr>
-- 🔭 I’m currently working on an [exploratory analysis] of the Forbes 2022 list of the worlds best employers (https://github.com/GPN87/top_100_employers_2022)
+- 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the worlds best employers 
 
-- 🌱 I’m currently learning how to retrieve data from an API endpoint, store it in a non-relational database such as MongoDB using the PyMongo library.
+- 🌱 I’m currently learning about non-relational databases such as MongoDB - and interacting with them using the PyMongo library.
 
 - 📚 I'm currently reading 'An introduction to Networking' by Dr. Charles Severance
 
