@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gavin from Australia</h1>
 
-<p align="center">Current Bootcamper (finshing May 2023)| Former policy-writer | Aspiring data analyst</br> 
-My skillset is an inch deep and a mile wide at the moment but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
+<p align="center">Current Bootcamper (finshing in May)| Former policy-writer | Aspiring data analyst</br> 
+My skillset is an inch deep and a mile wide at the moment</br>
+but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
 <hr>
 
 
@@ -16,7 +17,13 @@ My skillset is an inch deep and a mile wide at the moment but I'm looking to dig
 - 📫 How to reach me **gavin.payne87@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-- Javascript ![image](https://user-images.githubusercontent.com/113484660/219943077-1c5c5914-13c6-43da-9779-2c6110b86db1.png)
+
+**Programming Languages**
+- Python (Pandas, Matplotlib, Numpy)
+- SQL (Postgres, MongoDB)
+
+**Frontend**
+-HTML5/CSS3/Bootstrap/js
 
 
 
