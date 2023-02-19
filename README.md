@@ -13,6 +13,17 @@ and chip away at those 10,000 hours.</p>
 
 - 📫 How to reach me **gavin.payne87@gmail.com**
 
+<h1>🌱 I've already learnt how to..</h1>
+
+- clean, manipulate and explore data sourced from flatfiles, databases and jsonified API responses using Pandas.
+- visualise and run statistical analyses of data using Matplotlib, numPy and sciPy. 
+- perform 'Create, Read, Update and Delete' operations as well as joins, unions, and subqueries to SQL databases.
+- identify data relationships and apply data modelling techniques to database design for e.g. using primary, foreign & composite keys, and through-tables.
+- interact with non-relational databases such as MongoDB using the PyMongo library.
+
+<h1>🔮 What's next:</h1>
+- map-based data visualisations using the Leaflet.js library.
+
 <h1 align="left">Languages and Tools:</h1>
 
 **Programming Languages**
@@ -22,19 +33,8 @@ and chip away at those 10,000 hours.</p>
 **Frontend**
 - HTML5/CSS3/Bootstrap/js
 
-<h1>🌱 I'm currently learning:</h1>
-
-- 
-- How to interact with non-relational databases such as MongoDB using the PyMongo library.
-
-
-
-
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpn87&show_icons=true&locale=en&layout=compact" alt="gpn87" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpn87&" alt="gpn87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpn87&show_icons=true&locale=en" alt="gpn87" /></p>
 
 <!--
 **GPN87/GPN87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
