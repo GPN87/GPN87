@@ -5,9 +5,6 @@ My skillset is an inch deep and a mile wide at the moment</br>
 but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
 <hr>
 
-
-- 🌱 I’m currently learning about non-relational databases such as MongoDB - and interacting with them using the PyMongo library.
-
 - 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the worlds best employers 
 
 - 📚 I'm currently reading 'An introduction to Networking' by Dr. Charles Severance
@@ -16,7 +13,7 @@ but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
 
 - 📫 How to reach me **gavin.payne87@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 **Programming Languages**
 - Python (Pandas, Matplotlib, Numpy)
@@ -25,9 +22,10 @@ but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
 **Frontend**
 - HTML5/CSS3/Bootstrap/js
 
+<h1>🌱 I'm currently learning:</h1>
 
-
-
+- 
+- How to interact with non-relational databases such as MongoDB using the PyMongo library.
 
 
 
