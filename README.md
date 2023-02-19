@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin from Australia</h1>
 
-<p align="center">Current Bootcamper (finshing in May)| Former policy-writer | Aspiring data analyst</br> 
-My skillset is an inch deep and a mile wide at the moment but I want to keep digging and</br>
+<p align="center">Current Bootcamper (finishing in May)| Former policy-writer | Aspiring data analyst</br> 
+So far my skillset is an inch deep and a mile wide but I want to keep digging and</br>
 chip away at those 10,000 hours.</p>
 <hr>
 
