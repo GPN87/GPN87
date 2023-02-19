@@ -2,7 +2,7 @@
 
 <p align="center">Current Bootcamper (finishing in May)| Former policy-writer | Aspiring data analyst</br> 
 So far my skillset is an inch deep and a mile wide but I want to keep digging </br>
-and chip away at those 10,000 hours.</p>
+and notch up a few more of those 10,000 hours.</p>
 <hr>
 
 - 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the world's best employers 
