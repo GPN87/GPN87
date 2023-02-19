@@ -5,7 +5,7 @@ So far my skillset is an inch deep and a mile wide but I want to keep digging </
 and chip away at those 10,000 hours.</p>
 <hr>
 
-- 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the worlds best employers 
+- 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the world's best employers 
 
 - 📚 At the moment I'm reading 'An introduction to Networking' by Dr. Charles R. Severance
 
