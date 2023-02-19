@@ -7,7 +7,7 @@ and chip away at those 10,000 hours.</p>
 
 - 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the worlds best employers 
 
-- 📚 I'm currently reading 'An introduction to Networking' by Dr. Charles Severance
+- 📚 At the moment I'm reading 'An introduction to Networking' by Dr. Charles R. Severance
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/GPN87?tab=repositories)
 
@@ -33,8 +33,8 @@ and chip away at those 10,000 hours.</p>
 **Frontend**
 - HTML5/CSS3/Bootstrap/js
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpn87&show_icons=true&locale=en&layout=compact" alt="gpn87" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpn87&" alt="gpn87" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpn87&show_icons=true&locale=en" alt="gpn87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpn87&show_icons=true&locale=en" alt="gpn87" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpn87&" alt="gpn87" /></p>
+
 
 <!--
 **GPN87/GPN87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
