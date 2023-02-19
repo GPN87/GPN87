@@ -19,6 +19,7 @@ chip away at those 10,000 hours.</p>
 - visualise and run statistical analyses of data using Matplotlib, numPy and sciPy. 
 - perform 'Create, Read, Update and Delete' operations as well as joins, unions, and subqueries to SQL databases.
 - identify data relationships and apply data modelling techniques to database design for e.g. using primary, foreign & composite keys, and through-tables.
+- create and run a server and define an API endpoint using Flask.
 - interact with non-relational databases such as MongoDB using the PyMongo library.
 
 <h1>🔮 What's next:</h1>
