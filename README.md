@@ -23,7 +23,7 @@ but I'm looking to dig deeper and chip away at my 10,000 hours.</p>
 - SQL (Postgres, MongoDB)
 
 **Frontend**
--HTML5/CSS3/Bootstrap/js
+- HTML5/CSS3/Bootstrap/js
 
 
 
