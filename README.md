@@ -25,7 +25,7 @@ and notch up a few more of those 10,000 hours.</p>
 - interact with the MongoDB NOSQL database using either Mongosh or the PyMongo library.
 
 <h1>🔮 What's next:</h1>
-- map-based data visualisations using the Leaflet.js library.
+map-based data visualisations using the Leaflet.js library.
 
 <h1 align="left">Languages and Tools:</h1>
 
