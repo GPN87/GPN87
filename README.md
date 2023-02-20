@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gavin from Australia</h1>
 
-<p align="center">Current Bootcamper| Former policy-writer | Aspiring data analyst.</br> 
+<p align="center">Current Bootcamper | Former policy-writer | Aspiring data analyst.</br> 
 So far my skillset is an inch deep and a mile wide but I want to keep digging </br>
 and notch up a few more of those 10,000 hours.</p>
 <hr>
 
 - 🔭 I’m currently working on an [exploratory analysis](https://github.com/GPN87/top_100_employers_2022) of the Forbes 2022 list of the world's best employers 
 
-- 📚 At the moment I'm reading 'An introduction to Networking' by Dr. Charles R. Severance
+- 📚 At the moment I'm reading 'An Introduction to Networking' by Dr. Charles R. Severance
 
 - 📝 I recently wrote an article an about [post-Covid career transitions.](https://medium.com/@gavin.payne87/tips-for-approaching-a-career-change-during-the-great-r%CC%B6e%CC%B6s%CC%B6i%CC%B6g%CC%B6n%CC%B6a%CC%B6t%CC%B6i%CC%B6o%CC%B6n%CC%B6-reshuffle-6e1db6829963)
 
