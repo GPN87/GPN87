@@ -10,8 +10,8 @@ and notch up a few more of those 10,000 hours.</p>
 - 📚 At the moment I'm reading 'An introduction to Networking' by Dr. Charles R. Severance
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/GPN87?tab=repositories)
-- 
-- 📝 I recently wrote an article an about [post-Covid career transitions].(https://medium.com/@gavin.payne87/tips-for-approaching-a-career-change-during-the-great-r%CC%B6e%CC%B6s%CC%B6i%CC%B6g%CC%B6n%CC%B6a%CC%B6t%CC%B6i%CC%B6o%CC%B6n%CC%B6-reshuffle-6e1db6829963)
+
+- 📝 I recently wrote an article an about [post-Covid career transitions.](https://medium.com/@gavin.payne87/tips-for-approaching-a-career-change-during-the-great-r%CC%B6e%CC%B6s%CC%B6i%CC%B6g%CC%B6n%CC%B6a%CC%B6t%CC%B6i%CC%B6o%CC%B6n%CC%B6-reshuffle-6e1db6829963)
 
 - 📫 How to reach me **gavin.payne87@gmail.com**
 
