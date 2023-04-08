@@ -30,11 +30,24 @@ map-based data visualisations using the Leaflet.js library.
 <h1 align="left">Languages and Tools:</h1>
 
 **Programming Languages**
-- Python (Pandas, Matplotlib, Numpy)
-- SQL (Postgres, MongoDB)
+- Python 
+- SQL
+- Javascript
 
-**Frontend**
-- HTML5/CSS3/Bootstrap/js
+**Applications**
+- Flask
+- Tableau
+- Knime
+
+**Tools**
+- Pandas
+- Matplotlib
+- Numpy
+- PyMongo
+- d3
+- plotly
+- leaflet
+- pgAdmin
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpn87&show_icons=true&locale=en" alt="gpn87" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpn87&" alt="gpn87" /></p>
 
