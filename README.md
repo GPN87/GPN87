@@ -23,9 +23,12 @@ and notch up a few more of those 10,000 hours.</p>
 - identify data relationships and apply data modelling techniques to database design for e.g. using primary, foreign & composite keys, and through-tables.
 - create and run a server and define an API endpoint using Flask.
 - interact with the MongoDB NOSQL database using either Mongosh or the PyMongo library.
+- create web-based visualisations using a range of javascript libraries including plotly and charts for dashboards and leaflet for geoJSON objects.
+- tell data stories using Tableau, including with dashboards, mapping elements and calculated fields.
+- perform Kmeans cluster analyses in Python using scikit-learn, including with optimisation techniques such as principal component analysis.
 
 <h1>🔮 What's next:</h1>
-map-based data visualisations using the Leaflet.js library.
+Supervised learning and logistic regression.
 
 <h1 align="left">Languages and Tools:</h1>
 
@@ -43,6 +46,7 @@ map-based data visualisations using the Leaflet.js library.
 - Pandas
 - Matplotlib
 - Numpy
+- scikit-learn
 - PyMongo
 - d3
 - plotly
