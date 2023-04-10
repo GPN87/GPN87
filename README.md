@@ -25,7 +25,7 @@ and notch up a few more of those 10,000 hours.</p>
 - interact with the MongoDB NOSQL database using either Mongosh or the PyMongo library.
 - create web-based visualisations using a range of javascript libraries including plotly and charts for dashboards and leaflet for geoJSON objects.
 - tell data stories using Tableau, including with dashboards, mapping elements and calculated fields.
-- perform Kmeans cluster analyses in Python using scikit-learn, including with optimisation techniques such as principal component analysis.
+- perform KMeans cluster analyses in Python using scikit-learn, including with optimisation techniques such as principal component analysis.
 
 <h1>🔮 What's next:</h1>
 Supervised learning and logistic regression.
