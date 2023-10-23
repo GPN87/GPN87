@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gavin from Canberra, Australia</h1>
+<h1 align="center">Hi 👋, I'm Gavin from Sydney, Australia</h1>
 
 <p align="center">Recent Bootcamper | Former policy-writer | Data analyst.</br> 
 So far my skillset is an inch deep and a mile wide but I want to keep digging </br>
